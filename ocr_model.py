@@ -30,5 +30,5 @@ def text_to_speech(arabic_text):
     #ipd.Audio(audio_path, autoplay=True)
 """
 
-ahmed = image_to_text("/content/Testaya.jpg")
+ahmed = image_to_text("/content/YSI.png")
 print(ahmed)
